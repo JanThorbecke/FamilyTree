@@ -1,0 +1,104 @@
+% \LaTeX-Main\
+%% The LaTeX package genealogytree - version 2.3.0 (2023/03/09)
+%% Example
+%%
+%% -------------------------------------------------------------------------------------------
+%% Copyright (c) 2013-2023 by Prof. Dr. Dr. Thomas F. Sturm <thomas dot sturm at unibw dot de>
+%% -------------------------------------------------------------------------------------------
+%%
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%   http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2005/12/01 or later.
+%%
+%% This work has the LPPL maintenance status `author-maintained'.
+%%
+%% This work consists of all files listed in README
+%%
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{incgraph}
+\usepackage{lmodern}
+\usepackage[paperwidth=450mm,paperheight=180mm]{geometry}
+\usepackage[english]{babel}
+\usepackage[all]{genealogytree}
+\gtrset{language=dutch}
+
+\usetikzlibrary{backgrounds}
+
+\hypersetup{
+  pdftitle={Thorbecke Familie},
+  pdfauthor={Jan 1965},
+  pdfsubject={genealogy trees and graphs},
+  pdfkeywords={genealogy, trees}
+}
+
+\gtrset{language=english}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\begin{inctext}
+\begin{tikzpicture}
+
+\genealogytreeinput[
+  template=database pole, 
+  parent distance in child graph=0.5mm,
+%  family distance=2mm,
+  date format=dd.mm.yyyy,
+  nick code=\flqq #1\frqq,
+  level 0/.style={level distance=1cm},
+%  options for node={Cristine}{pivot=both,box={colback=green!50}}
+%  tcbset={male/.style={sharp corners},female/.style={circular arc}},
+]{thorbecke.graph}
+
+
+  \draw[double, distance=2pt, thick, blue, dotted] (CristineParent.east) -- ++(0,2.3) -|  (CristineChild.west);
+
+%
+\begin{scope}[on background layer]
+\path[top color=green!5!white,bottom color=green!20!white]
+  ([xshift=-1cm,yshift=-1.16cm]current bounding box.south west)
+    rectangle ([xshift=1.16cm,yshift=1cm]current bounding box.north east);
+\end{scope}
+
+\path[draw=gtr_Blue_5,double,line width=2pt,double distance=1pt,rounded corners=6pt]
+  ([xshift=3mm,yshift=3mm]current bounding box.south west)
+    rectangle ([xshift=-3mm,yshift=-3mm]current bounding box.north east);
+
+%\node[below right] at ([xshift=1cm,yshift=-1cm]current bounding box.north west) {
+%  \begin{tcolorbox}[enhanced,width=16cm,sidebyside,sidebyside align=top,
+%    boxrule=0.4pt,arc=2pt,drop lifted shadow,
+%    colback=gtr_Yellow_Back,colframe=gtr_Blue_1,
+%    segmentation style={solid,shorten >=3mm,shorten <=3mm},
+%    ]
+%  \begin{center}
+%  \bfseries\Large\color{gtr_Blue_2} Stammtafel der Karolinger
+%  \end{center}
+%  Um die Zuordnung zu den Familien zu erleichtern, wurden
+%  k\"unstliche Familiennamen wie Karolinger, Liudolfinger, etc.
+%  verwendet.\par\medskip
+%  \gtrSymbolsLegend[german]
+%  \tcblower
+%  \begin{center}
+%  \bfseries\Large\color{gtr_Blue_2} Pedigree chart of the Carolingian dynasty
+%  \end{center}
+%  To ease the assignment to families, artificial surnames like
+%  Karolinger, Liudolfinger, etc. are used.\par\medskip
+%  \gtrSymbolsLegend[english]
+%  \end{tcolorbox}
+%};
+
+\node[above right] at ([xshift=-6cm,yshift=-7cm]current bounding box.north east)
+  {\includegraphics[width=4cm]{IMG_3212.jpeg}};
+
+\node[above left] at ([xshift=-1cm,yshift=1cm]current bounding box.south east)
+  {\sffamily\small created with \texttt{genealogytree}};
+
+\end{tikzpicture}
+\end{inctext}
+
+\end{document}
