@@ -1,0 +1,1606 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+  g{male,
+  name={1 \pref{Johann} \surn{Thor becke}},
+  birth={1573}{Gr\"onenberg},
+  death={1608}{Borgholzhausen},
+  profession={linen merchant}
+}
+  p{female,
+  name={\pref{Gertrud} \surn{Unbesunnen}},
+  birth={?}{},
+  death={?}{?Borgholzhausen},
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+  g{male,
+    name={2a \pref{Hermann} \surn{Thor becke}},
+    birth={1604-07-11}{Borgholzhausen},
+    death={1687-09-16}{Borgholzhausen},
+    profession={linen merchant}
+  }
+  p{female,
+    name={Regina Meuschen},
+    birth={1640-05-20}{Osnabr\"uck},
+    death={1667}{Borgholzhausen},
+    profession={linen merchant}
+  }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+  g{male,
+    name={3a Eberhard Philipp \surn{Thor becke}},
+    birth={1647}{Osnabr\"uck},
+    death={1711-04-12}{Borgholzhausen},
+    profession={Mayor at Borgholzhausen, linen merchant}
+  }
+  p{female,
+    name={Anna Dorothea Herschemann},
+    birth={1653-03-13}{Osnabr\"uck},
+    death={1725-09-7}{Borgholzhausen},
+    marriage={1673-05-12}{Osnabr\"uck}
+  }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 4
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+  g{male,
+  name={4a Herman Matthias},
+  birth={1674}{Borgholzhausen},
+  death={1746}{Borgholzhausen},
+  profession={Mayor and merchant}
+}
+child{
+  g{male,
+  name={5a Ferdinand Justus},
+  birth={1721}{Borgholzhausen},
+  death={1763}{Borgholzhausen},
+}
+}
+}
+child{
+  g{male,
+    name={4b Ferdinand Matthias Johann Anton \surn{Thorbecke}},
+    birth={1687-08-16}{Borgholzhausen},
+    death={1728-08-12}{Halle},
+    profession={merchant Halle}
+  }
+  p{female,
+    name={Karolina Margaretha Brune},
+    birth={16??}{Halle},
+    death={?}{Halle},
+  }
+  c{male,
+    name={Johan Casper},
+    birth={1715}{Halle},
+    death={1753-03-11}{Zwolle},
+  }
+  c{female,
+    name={Dorothea Elisabeth},
+    birth={1716-04-26}{Halle},
+    death={1805-04-2}{Borgholzhausen},
+  }
+  c{female,
+    name={Anna Charlotta},
+    birth={?}{Halle},
+    death={1752}{Lemgo},
+  }
+  c{female,
+    name={Henrietta Benigna},
+    birth={?}{Halle},
+    death={1760}{Halle},
+  }
+  c{female,
+    name={Louise Margaretha},
+    birth={1723-04-?}{Halle},
+    death={1736-04-17}{Halle}
+  }
+}
+child{
+  g{male,
+    name={4c Johann Franz \surn{Thor becke}},
+    birth={1690-04-14}{Borgholzhausen},
+    death={1759-03-09}{Borgholzhausen},
+    profession={linen merchant, tax collector}
+  }
+  p{female,
+    name={Margaretha Anna Schl\"o(y)mann},
+    birth={1696-12-16}{Neukircken (Melle)},
+    death={1779-07-27}{Borgholzhausen},
+    marriage={1717-07-15}{Borgholzhausen}
+  }
+  c{female,
+    name={Franziska Lucia},
+    birth={1722-10-25}{Versmold},
+    death={1771-11-16}{Borgholzhausen},
+    %marriage={1717-07-15}{Borgholzhausen}
+  }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 5
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+  g{male,
+    name={5b Frans Hendrik},
+    birth={1726-07-23}{Borgholzhausen},
+    death={1787-01-29}{Zwolle},
+    profession={Tobacco manufacturer},
+    comment={'op de Dijk' with Daniel Franz}
+  }
+  p{female,
+    name={Catharina Paauw},
+    birth={1729-06-07}{Amsterdam},
+    death={1796-04-22}{Zwolle},
+    marriage={1755-10-07}{Amsterdam}
+  }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 6
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+g{
+  male,
+  name={6a Jan Everhard Hendrik},
+  birth={1756}{Zwolle},
+  death={1825}{},
+  profession={Tobacco manufacturer}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 7  a b c
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+child{
+g{
+  male,
+  name={7a Frans Hendrik},
+  birth={1780}{Zwolle},
+  death={1848}{},
+  profession={Tobacco manufacturer}
+}
+
+child{
+g{
+  male,
+  name={8a Franz Heinrich N347},
+  birth={1817}{Kassel},
+  death={1840}{},
+  profession={Tobacco manufacturer}
+}
+
+child{
+g{
+  male,
+  name={9a Franz Heinrich (506,N347)},
+  birth={1839}{Bamberg},
+  death={1892}{},
+  profession={Tobacco manufacturer}
+}
+
+c{
+  male,
+  name={10a Franz H.P.},
+  birth={1864}{Bamberg},
+  death={?}{},
+  profession={Tobacco manufacturer}
+}
+
+child{
+g{
+  male,
+  name={10b Franz Heinrich K.},
+  birth={1868}{Bamberg},
+  death={1917}{},
+  profession={Naval Captain}
+}
+child{
+g{
+  male,
+  name={11a Frithjof Georg},
+  birth={1899}{Wilhelmshaven},
+  death={?}{},
+  profession={Merchant at Bietigheim}
+}
+child{
+g{
+  male,
+  name={12a Franz Heinr. K.},
+  birth={22-8-1931}{Stuttgart}
+}
+}
+
+child{
+g{
+  male,
+  name={12b Klaus Frithjof},
+  birth={15-5-1935}{Bietigheim}
+}
+}
+}
+
+}
+}
+}
+}
+
+%------------------------------------------------
+% Branch 7b
+%------------------------------------------------
+
+child{
+g{
+  male,
+  name={7b Fredrik Willem (508,N349)},
+  birth={1787}{Zwolle},
+  death={1864}{},
+  profession={Tax-collector}
+}
+}
+
+
+%------------------------------------------------
+% Branch 7c
+%------------------------------------------------
+
+child{
+g{
+  male,
+  name={7c Lubbertus N350},
+  birth={1790}{Zwolle},
+  death={1862}{},
+  profession={Tobacco manufacturer}
+}
+c{
+  male,
+  name={8b Rudolf H.J. (510)},
+  birth={1813}{Zwolle},
+  death={1849}{},
+  profession={Merchant and shopkeeper}
+}
+c{
+  male,
+  name={8c Frans Philip (510)},
+  birth={1816}{Zwolle},
+  death={1874}{},
+  profession={Pharmacist at Zwolle}
+}
+
+child{
+g{
+  male,
+  name={8d Lubbertus D.J. (511,N353)},
+  birth={1819}{Zwolle},
+  death={1891}{},
+  profession={Merchant and wholesale dealer colonial produces}
+}
+child{
+g{
+  male,
+  name={9b Herman Jacobus (512,N353)},
+  birth={1854}{Zwartsluis},
+  death={1942}{},
+  profession={Family Doctor at Vianen}
+}
+
+child{
+g{
+  male,
+  name={10bb Lubbertus D.J. (512)},
+  birth={1887}{Vianen},
+  death={1918}{},
+  profession={Lawyer / unmarried}
+}
+}
+}
+child{
+g{
+  male,
+  name={9c Hendrik (512,N353)},
+  birth={1868}{Zwartsluis},
+  death={1923}{},
+  profession={Colonial produce business}
+}
+
+child{
+g{
+  male,
+  name={10c Lubbertus D.J. (513,N354)},
+  birth={1900}{Zwartsluis},
+  death={1957}{},
+  profession={Family Doctor at Groningen}
+}
+
+child{
+g{
+  female,
+  name={Dr. Geertruida Jeanette},
+  birth={2-8-1929}{Nes (Ameland)},
+  profession={Prof. New York University}
+}
+}
+
+child{
+g{
+  female,
+  name={Johanna},
+  birth={30-8-1931}{Nes (Ameland)},
+  profession={Teacher at Zeist}
+}
+}
+
+child{
+g{
+  female,
+  name={Niza Everdina},
+  birth={27-8-1933}{Groningen},
+  death={27-2-1966}{},
+  profession={Teacher}
+}
+}
+
+child{
+g{
+  male,
+  name={11b Herman Jacobus (513,N355)},
+  birth={8-11-1935}{Groningen},
+  profession={Estate agent, Florida USA}
+}
+
+child{
+g{
+  male,
+  name={12c Lubbertus D.J.},
+  birth={14-10-1954}{Deventer},
+  profession={Mechanic Eng. at Binningen (Basel)}
+}
+}
+
+child{
+g{
+  female,
+  name={Martine},
+  birth={8-10-1957}{Bloemfontein Afrika},
+  profession={Fruit cultivater at Kreta}
+}
+}
+
+child{
+g{
+  male,
+  name={12d Johan Rudolf N355},
+  birth={13-12-1960}{Transvaal Afrika},
+  profession={Mechanic Eng. at Morgaarten/Zürich}
+}
+}
+}
+
+child{
+  g{
+  male,
+    name={11c Martijn Frederik Willem},
+    birth={30-8-1937}{Groningen}
+  }
+  c{
+  male,
+    name={12e Boris Olivier},
+    birth={1-4-1972}{Amsterdam}
+  }
+  c{
+  female,
+    name={Japke Niza},
+    birth={6-4-1976}{Amsterdam}
+  }
+}
+}
+
+child{
+g{
+  male,
+  name={10d Hendrik},
+  birth={1902}{Zwartsluis},
+  profession={Postal worker at Utrecht}
+}
+}
+
+child{
+g{
+  female,
+  name={Jacomina},
+  birth={17-1-1897}{Zwartsluis}
+}
+p[disconnect]{
+  male,
+  name={Jan A. den Daas},
+  birth={1880}{Utrecht},
+  death={1972}{}
+}
+}
+}
+}
+}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 6
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+g{
+  male,
+  name={6b Frederik Willem},
+  birth={1760-05-13}{Zwolle},
+  death={1832-01-22}{Zwolle},
+  profession={Tobacco manufacturer}
+}
+p[id=CristineParent]{
+  female,
+  name={Cristine Regina Thorbecke},
+  birth={1769-06-18}{Osnabr\"uck},
+  death={1835-05-21}{Zwolle},
+  comment={daughter Daniel Franz 5c}
+}
+  c{
+      male,
+      name={Frans Daniel Hendrik},
+      birth={1796-02-12}{Zwolle},
+      death={1796-05-10}{Zwolle},
+  }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 7 d
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    child[id=JohanRudolf]{
+     g{
+        male,
+        name={7d Johan Rudolf},
+        birth={1798}{Zwolle},
+        death={1872}{},
+        comment={3x Prime Minister of the Netherlands}
+    }
+    p{
+        female,
+        name={Adelheid E.C.H. Solger},
+        birth={1817}{Berlin},
+        death={1870}{The Hague}
+    }
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 8
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child{
+    g{
+        male,
+        name={8e Willem},
+        birth={1843}{Leiden},
+        death={1917}{},
+        comment={Lawyer}
+    }
+%
+% Generation 9
+child{
+    g{
+        male,
+        name={9d Johan Rudolf},
+        birth={1881}{The Hague},
+        death={1950}{},
+        comment={Lawyer / Judge}
+    }
+%
+% Generation 10
+child{
+    g{
+        male,
+        name={10e Willem},
+        birth={6-7-1920}{The Hague},
+        death={?}{}.
+        comment={Telecommunication Philips}
+    }
+}
+child{
+    g{
+        male,
+        name={Hermance Johanna},
+        birth={14-5-1922}{The Hague},
+        death={?}{}.
+        comment={Department secretary}
+    }
+}
+}
+child{
+    g{
+        male,
+        name={9e Willem J.R.},
+        birth={1892}{The Hague},
+        death={?}{}.
+        comment={Minister resident at China\\Prof. Emory University Atlanta, USA}
+    }
+%
+% Generation 10
+child{
+    g{
+        male,
+        name={10f Willem Henry},
+        birth={4-7-1924}{Paris}
+        death={?}{}.
+    }
+%
+% Generation 11
+child{
+    g{
+        male,
+        name={11d Johan Rudolf},
+        birth={18-1-1953 Yokohama}
+        death={?}{}.
+    }
+    c{
+        female,
+        name={Juliana El.},
+        birth={28-12-1985}{Sewickley, USA}
+    }
+}
+child{
+    g{
+        male,
+        name={11e Willem L.},
+        birth={25-12-1954}{Yokohama}
+    }
+}
+child{
+    g{
+        female,
+        name={Christine L.},
+        birth={17-11-1958}{New Jersey}
+    }
+}
+}
+child{
+    g{
+        male,
+        name={10g Erik},
+        birth={17-2-1929}{Berlin}
+        death={?}{}.
+    }
+%
+% Generation 11
+child{
+    g{
+        male,
+        name={11f Erik Charles},
+        birth={26-4-1955}{Berkeley, CA},
+        comment={Clergyman}
+    }
+}
+child{
+    g{
+        male,
+        name={11g Willem Hendrik},
+        birth={9-8-1958}{Berkeley, CA}
+    }
+}
+child{
+    g{
+        male,
+        name={11h John Patrick},
+        birth={7-8-1960}{Ames, Iowa, USA}
+    }
+}
+}
+child{
+    g{
+        female,
+        name={Madelaine K.},
+        birth={1-6-1930}{Berlin}
+        death={?}{}.
+    }
+}
+child{
+    g{
+        female,
+        name={Evelin},
+        birth={7-10-1931}{Berlin}
+        death={?}{}.
+    }
+}
+child{
+    g{
+        female,
+        name={Vivian M.W.},
+        birth={15-2-1917}{The Hague},
+        death={6-4-1980}{},
+    }
+}
+}
+}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Generation 7e
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+child[id=HendrikChris1801]{
+  g[id=FW1843]{
+    male,
+    name       = {7e \pref{Hendrik Christian Herman} \surn{Thorbecke}},
+    birth      = {1801}{Zwolle}{},
+    death      = {1932}{Dieren},
+    profession = {Family Doctor Dieren},
+  }
+% Generation 8
+  c[id=HRJJ1844]{
+    male,
+    name       = {\pref{Herman Robert Johan Jacob} \surn{Thorbecke}},
+    birth    = {1844}{Dieren}{},
+    death    = {1935}{Dieren},
+    profession = {Colonel Navy},
+  }
+  child[id=FWTax]{
+    g[id=FW1843]{
+      male,
+      name       = {8f \pref{Fredrik Willem} \surn{Thorbecke}},
+      birth      = {1843}{Dieren}{},
+      death      = {1932}{Dieren},
+      profession = {Town tax collector},
+    }
+% Generation 9
+child[id=Opa]{
+  g[id=Fre1901]{
+    male,
+    name       = {9f \pref{Fredrik Willem} \surn{Thorbecke}},
+    birth      = {1901-05-14}{Rotterdam}{},
+    death      = {1992-01-10}{Oostzaan},
+    profession = {Family Doctor Oostzaan},
+  }
+  p[id=Oma]{
+    female,
+    name     = {\pref{Gertrude} \surn{Ten Dijk}},
+    birth    = {1902-02-17}{Den Haag}{},
+    death    = {1971-02-07}{Oostzaan},
+  }
+child[id=Papa]{
+  g[id=Fred1933]{
+    male,
+    name       = {10 h \pref{Fredrik Herman} \surn{Thorbecke}},
+    birth      = {1930-09-21}{Purmerend}{},
+    death      = {2003-01-10}{Zaandam},
+    profession = {GG\&GD Amsterdam},
+  }
+  p[id=Wil1937]{
+    female,
+    name     = {\pref{Dirkje Willemina Henders} \surn{Veldink}},
+    birth    = {1937-08-03}{Amsterdam}{},
+    death    = {2021-06-11}{Maarssen},
+    %marriage = {195?}{Oostzaan},
+  }
+  child[id=amerikies]{
+    g[id=Rik1963]{
+      male,
+      name   = {11i \pref{Fredrik Jan} \surn{Thorbecke}},
+      birth    = {1963-09-05}{Oostzaan}{},
+    }
+    p[id=Jolanda1965]{
+      female,
+      name   = {\pref{Jolanda} \surn{Brouwers}},
+      birth    = {1965-03-10}{Sprang-Capelle}{},
+    }
+    child[id=vivdanes]{
+      g[id=Vivian1993]{
+        female,
+        name   = {\pref{Vivianne} \surn{Thorbecke}},
+        birth    = {1993-05-27}{Maarssen}{},
+      }
+      p[id=Dane1993]{
+        male,
+        name   = {\pref{Dane} \surn{Dwyer}},
+        birth    = {1993-05-28}{San Diego}{},
+      }
+      c[id=parker2025]{
+        male,
+        name   = {\pref{Parker} \surn{Dwyer-Thorbecke}},
+        birth    = {2025-06-19}{San Diego}{},
+      }
+    }
+    child[id=michkenny]{
+      g[id=Michelle1998]{
+        female,
+        name   = {\pref{Michelle} \surn{Thorbecke}},
+        birth    = {1998-01-14}{Maarssen}{},
+      }
+      p[id=Kenny1994]{
+        male,
+        name   = {\pref{Kenny} \surn{Greason}},
+        birth    = {1994-11-01}{Phoenix}{},
+      }
+      c[id=lucas2024]{
+        male,
+        name = {\pref{Lucas} \surn{Greason}},
+        birth= {2024-05-25}{Phoenix}{},
+      }
+    }
+    c[id=Willem2002]{
+      male,
+      name = {\pref{Willem} \surn{Thorbecke}},
+      birth= {2002-10-03}{San Jose (CA)}{},
+    }
+  }
+  child[id=jansuzanne, family database={marriage={}{}}]{
+  g[id=Jan1965]{
+    male,
+    name    = {11k \pref{Jan Willem} \surn{Thorbecke}},
+    birth    = {1965-11-09}{Oostzaan}{},
+  }
+  p[id=Roos1970,disconnect]{
+    female,
+    name    = {\pref{Rosalinde} \surn{Lagendijk}},
+    birth    = {1970-10-19}{Delft}{},
+    death    = {2005-09-01}{Delft}{},
+  }
+  p[id=Suzanne1972,disconnect]{
+    female,
+    name    = {\pref{Suzanne} \surn{Donkers}},
+    birth    = {1972-02-12}{Eindhoven}{},
+  }
+  }
+  child[id=gertruderemco]{
+  g[id=Getrude1970]{
+    female,
+    name   = {11u \pref{Gertrude Hendrina} \surn{Thorbecke}},
+    birth    = {1971-03-03}{Oostzaan}{},
+  }
+  p[id=Remco1977]{
+    male,
+    name   = {\pref{Remco} \surn{van Zanten}},
+    birth    = {1977-11-18}{Tiel}{},
+  }
+  c[id=Nikki]{
+    female,
+    name   = {\pref{Nikki} \surn{van Zanten}},
+    birth    = {2005-01-19}{De Meern}{},
+  }
+  }
+}
+  child[id=OomHarry]{
+  g{
+    male,
+    name       = {10i \pref{Henri Rudolf} \surn{Thorbecke}},
+    birth    = {1934-05-20}{Oostzaan}{},
+    death    = {2023-03-12}{Oostzaan},
+  }
+  p[id=TanteGre]{
+    female,
+    name     = {\pref{Gr\'e} \surn{Buys}},
+    birth    = {19-0-0}{Amsterdam}{},
+    death    = {20-0-1}{Zaandam},
+    %marriage = {1965}{Oostzaan},
+  }
+  child{
+  g{
+    male,
+    name   = {11l \pref{Pieter Fredrik}},
+    birth    = {1958-11-06}{Middelburg},
+  }
+  p{
+    female,
+    name   = {\pref{Trudy} \surn{Horman}},
+    birth    = {?}{},
+  }
+  c[id=Timo]{
+    male,
+    name   = {Timo},
+    birth  = {1989-06-17}{Oostzaan}{},
+  }
+  c[id=Joy]{
+    female,
+    name   = {Joy},
+    birth  = {1991-04-26}{Zaandam},
+  }
+  }
+  child{
+  g{
+    female,
+    name   = {Henri\"ette},
+    birth    = {1962-09-1}{Zaandam},
+  }
+  p{
+    male,
+    name   = {Ben Mom},
+    birth    = {?}{},
+  }
+  c{
+    female,
+    name   = {Berbel},
+    birth  = {?}{Zaandam},
+  }
+  c{
+    male,
+    name   = {Jesper},
+    birth  = {?}{Zaandam},
+  }
+}
+
+}
+}
+}
+}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generation 6
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+child{
+g{  
+  male,
+  name={6c Andreas Hendrik},
+  birth={1762}{Zwolle},
+  death={1814}{},
+  profession={Income Tax collector Tobacco manufacturer}
+}
+p{
+  female,
+  name={Anna E. Strubberg},
+  birth={1767}{Kleef},
+  death={1840}{Zwolle},
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Generation 7f
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+child{
+g{
+    male,
+    name={7f August Franz (519)},
+    birth={1881}{Kassel},
+    death={1846}{},
+    profession={Tobacco Manufacturer (Mannheim)}
+}
+
+%------------------------------------------------
+% Generation 8
+%------------------------------------------------
+
+child{
+g{
+    male,
+    name={8g Friedrich August Willem (521)},
+    birth={1839}{Meiningen},
+    death={1912}{Heidelberg},
+    profession={Dr. Philology at Heidelberg}
+}
+
+%------------------------------------------------
+% Children of 8g
+%------------------------------------------------
+
+child{
+g{
+    female,
+    name={Berta D.A.K. (521)},
+    birth={1871}{Heidelberg},
+    death={1923}{},
+    profession={Teacher (unmarried)}
+}
+}
+
+child{
+g{
+    female,
+    name={Ella E.h.M. (521)},
+    birth={1872}{Heidelberg},
+    death={1937}{}
+}
+p[disconnect]{
+    male,
+    name={A.K. Barkhausen},
+    birth={1864}{},
+    death={1935}{},
+    profession={Lawyer at Heidelberg}
+}
+}
+
+child{
+g{
+    male,
+    name={Franz Heinrich (521)},
+    birth={1875}{Heidelberg},
+    death={?}{},
+    profession={
+        Dr. Philology, Prof. of Geology at University Köln,\\
+        member University of Naturalisten at Halle
+    }
+}
+p[disconnect]{
+    female,
+    name={Marie P. Berthold},
+    birth={1881}{Aurich},
+    death={1971}{}
+}
+
+%-----------------------------------------------
+% Children of Franz Heinrich
+%-----------------------------------------------
+
+}
+
+child{
+g{
+    male,
+    name={Kurt Armin A.H.},
+    birth={1878}{Heidelberg},
+    death={?}{},
+    profession={Doctor of Medicine, Gynaecology}
+}
+p[disconnect]{
+    female,
+    name={Dorothea V.M. Freiin von Rahden},
+    birth={1878}{Memelhof},
+    death={?}{}
+}
+}
+
+child{
+g{
+    male,
+    name={9g Paul Erwin},
+    birth={1882}{Heidelberg},
+    death={1928}{},
+    profession={
+        Lawyer at Konstanz,\\
+        later Mayor at Singen
+    }
+}
+p{
+    female,
+    name={Clara Kall},
+    birth={1885}{Heidelberg},
+    death={?}{}
+}
+child{
+g{
+    female,
+    name={Dorothea (523)},
+    birth={1912}{Karlsruhe},
+    death={?}{}
+}
+p[disconnect]{
+    male,
+    name={Herbert Riedderer},
+    birth={1902}{Br.-bronn},
+    death={?}{}
+}
+}
+
+child{
+g{
+    female,
+    name={Edith (523)},
+    birth={1915}{Singen},
+    death={?}{}
+}
+}
+
+child{
+g{
+    male,
+    name={10k Franz H.A.},
+    birth={21-11-1922}{Konstanz},
+    death={?}{},
+    profession={Regional insurance inspector}
+}
+p{
+    female,
+    name={Ruth Schmitt},
+    birth={20-11-1926}{},
+    death={?}{},
+    marriage={1952}{}
+}
+
+child{
+g{
+    male,
+    name={11m Alexander},
+    birth={20-6-1953}{Heidelberg},
+    profession={Cameraman ZDF, lives in Mainz}
+}
+p[disconnect]{
+    female,
+    name={Elizabeth Castillo},
+    birth={24-04-1990}{},
+    marriage={24-4-1990}{}
+}
+}
+}
+
+child{
+g{
+    female,
+    name={Lieselotte},
+    birth={1922}{Konstanz},
+    death={1923},
+    comment={Twin of Franz H.A.}
+}
+}
+
+child{
+g{
+    female,
+    name={Ursula Clara (523)},
+    birth={29-6-1924}{Konstanz},
+    death={?}{}
+}
+p{
+    male,
+    name={Ralph Chr. Gibson},
+    marriage={21-7-1947}{},
+    comment={
+        P.O. Box 205\\
+        Hanover VA 23069\\
+        Virginia, USA
+    }
+}
+}
+
+}
+
+} %Friedrich August Willem
+
+
+child{
+g{
+    male,
+    name={8h Franz Heinrich Georg (523)},
+    birth={1843}{Meiningen},
+    death={1892}{Arosa},
+    profession={Tobacco and Cigars Manufacturer at Mannheim}
+}
+
+%================================================
+% Branch 9h Julius K.A.
+%================================================
+
+child{
+g{
+    male,
+    name={9h Julius K.A. (525)},
+    birth={1872}{},
+    death={1935}{},
+    profession={Tobacco Manufacturer}
+}
+
+child{
+g{
+    female,
+    name={Gabrielle},
+    birth={1905}{},
+    death={1980}{}
+}
+p[disconnect]{
+    male,
+    name={Hermann Lütjens}
+}
+}
+
+child{
+g{
+    male,
+    name={10l Andreas H.},
+    birth={1906}{},
+    death={1958}{},
+    profession={Merchant at Düsseldorf}
+}
+p{
+    female,
+    name={Ruth Henkel}
+}
+child{
+g{
+    female,
+    name={Erika G.},
+    birth={22-6-1935}{}
+}
+p[disconnect]{
+    male,
+    name={Gert Kroll}
+}
+}
+
+child{
+g{
+    male,
+    name={11n Heinrich J.},
+    birth={9-12-1936}{}
+}
+p{
+    female,
+    name={Sibylle Fuhrmeister}
+}
+
+child{
+g{
+    male,
+    name={12g Andreas},
+    birth={18-12-1963}{New York}
+}
+}
+
+child{
+g{
+    male,
+    name={12h Christian},
+    birth={23-4-1965}{Frankfurt}
+}
+}
+
+child{
+g{
+    female,
+    name={Anja},
+    birth={27-1-1967}{Frankfurt}
+}
+}
+
+child{
+g{
+    female,
+    name={Carola},
+    birth={13-3-1968}{Hamburg}
+}
+}
+}
+
+child{
+g{
+    female,
+    name={Annaliese},
+    birth={3-3-1939}{}
+}
+p[disconnect]{
+    male,
+    name={Gerd Lenz}
+}
+}
+
+child{
+g{
+    female,
+    name={Christa},
+    birth={25-10-1942}{}
+}
+p[disconnect]{
+    male,
+    name={Paul Plichta}
+}
+}
+
+}
+
+
+}
+
+
+c{
+    female,
+    name={Martha C.M.},
+    birth={1873}{},
+    death={1966}{}
+}
+
+%================================================
+% 
+%================================================
+
+
+%================================================
+% Franz K.Ph branch
+%================================================
+
+child{
+g{
+    male,
+    name={9i Franz K.Ph. (526)},
+    birth={1875}{},
+    death={1956},
+    profession={Merchant at Lindau}
+}
+
+child{
+g{
+    male,
+    name={10m Jan Ulrich (526)},
+    birth={1912}{Heidelberg},
+    death={1963},
+    profession={Bookseller at Leipzig}
+}
+p{
+    female,
+    name={Eva Hüttig}
+}
+
+child{
+g{
+    male,
+    name={11o Christoph},
+    birth={21-3-1941}{Leipzig}
+}
+}
+
+child{
+g{
+    male,
+    name={11p Jan Peter},
+    birth={27-7-1942}{Leipzig}
+}
+p{
+    male,
+    name={Christel Egler}
+}
+
+child{
+g{
+    female,
+    name={Sarah},
+    birth={27-5-1967}{Konstanz}
+}
+}
+
+}
+
+child{
+g{
+    male,
+    name={11q Rupprecht},
+    birth={5-11-1943}{Leipzig}
+}
+p{
+    female,
+    name={Marie A. Bunelle}
+}
+child{
+g{
+    male,
+    name={12i Daniel},
+    birth={15-9-1970}{Konstanz}
+}
+}
+}
+
+child{
+g{
+    male,
+    name={11r Anselm},
+    birth={3-5-1947}{Lindau}
+}
+p{
+    female,
+    name={Helga M. Riese}
+}
+
+child{
+g{
+    male,
+    name={12k Jan Patrick},
+    birth={13-6-1967}{Konstanz}
+}
+}
+}
+
+child{
+g{
+    female,
+    name={Agnes},
+    birth={24-9-1948}{Lindau}
+}
+}
+
+child{
+g{
+    male,
+    name={11s Franz Johannes},
+    birth={28-4-1952}{Lindau}
+}
+p[disconnect]{
+    female,
+    name={Regine}
+}
+}
+
+}
+
+child{
+g{
+    male,
+    name={Eberhard Ph.},
+    birth={1914}{},
+    death={1914}{}
+}
+}
+child{
+g{
+    male,
+    name={Reinhard W.},
+    birth={26-7-1916}{Heidelberg},
+    death={24-5-1941}{Kreta}
+}
+}
+
+child{
+g{
+    male,
+    name={10n Franz Robert E.},
+    birth={26-10-1922}{Lindau},
+    profession={Aerial photographer}
+}
+p{
+    female,
+    name={Irmgrad Schlegel},
+    birth={?}{}
+}
+child{
+g{
+    male,
+    name={11t Reinhard},
+    birth={9-02-1954}{Lindau},
+    profession={Pilot Lufthansa}
+}
+}
+child{
+g{
+    female,
+    name={Sabine Inge},
+    birth={2-03-1958}{Lindau},
+    profession={Teacher at Fusen}
+}
+}
+child{
+g{
+    female,
+    name={Beatrix},
+    birth={3-01-1965}{Lindau},
+    profession={Teacher at Ravensburg}
+}
+}
+
+}
+
+}
+
+
+
+
+%================================================
+% Other siblings
+%================================================
+
+child{
+g{
+    female,
+    name={Hedwig E.E.},
+    birth={1879}{},
+    death={1973}{}
+}
+}
+child{
+g{
+    female,
+    name={Bertha E.},
+    birth={1881}{},
+    death={1972}{}
+}
+}
+child{
+g{
+    female,
+    name={Clara E.},
+    birth={1884}{},
+    death={1975}{},
+    profession={Social worker}
+}
+}
+
+%================================================
+% Karl F.H branch
+%================================================
+
+child{
+g{
+    male,
+    name={9k Karl F.H. (526)},
+    birth={1877}{},
+    death={1949}{},
+    profession={Manufacturer at Mainz}
+}
+
+child{
+g{
+    female,
+    name={Elke Dorothee A.},
+    birth={14-3-1913}{Mannheim},
+    death={?}{}
+}
+p[disconnect]{
+    male,
+    name={Kurt Gebhard}
+}
+}
+
+c{
+    male,
+    name={Otto Helmuth},
+    birth={1915}{},
+    death={1918}{}
+}
+
+c{
+    male,
+    name={Eberhard Dietrich},
+    birth={11-9-1919}{Mannheim},
+    death={20-7-1941}{Orscha}
+}
+
+child{
+g{
+    female,
+    name={Marlene Luise El.},
+    birth={Mannheim 12-8-1921}{}
+}
+p[disconnect]{
+    male,
+    name={Friedrich von Sigriz}
+}
+}
+
+}
+
+} % 8h
+
+} %7f August Franz
+
+} %6
+
+
+} % 5b Frans Hendrik
+
+  c{female,
+    name={Margaretha Philippine},
+    birth={1728-01-24}{Borgholzhausen},
+    death={?}{Borgholzhausen},
+  }
+  c{female,
+    name={Maria Elisabeth},
+    birth={1729-05-27}{Borgholzhausen},
+    death={1806-08-25}{Borgholzhausen},
+  }
+  child{
+    g{male,
+      name={5c Daniel Frans},
+      birth={1731-10-23}{Borgholzhausen},
+      death={1815-10-22}{Osnabr\"uck},
+      profession={Tobacco manufacturer, Court official}
+      %marriage={1717-07-15}{Borgholzhausen}
+    }
+    p{female,
+      name={Clara Elisabeth Klin(c)ke},
+      birth={1745-12-09}{Osnabr\"uck},
+      death={1826-02-01}{Osnabr\"uck},
+      marriage={1762-11-02}
+    }
+      c{male,
+        name={6d Christian Franz},
+        birth={1763-10-4}{Osnabr\"uck},
+        death={1830-01-21}{Osnabr\"uck},
+        profession={Mayor and head-police Osnabr\"uck}
+      }
+      c{male,
+        name={Daniel Philipp},
+        birth={1767-05-08}{Osnabr\"uck},
+        death={1833-10-26}{Osnabr\"uck},
+        profession={Tobacco manufacturer}
+      }
+      c[id=CristineChild]{female,
+        name={Cristine Regina Thorbecke},
+        birth={1769}{Osnabr\"uck},
+        death={1835}{Zwolle},
+        comment={Married to Frederik Willem 6b}
+      }
+      c{male,
+        name={Heinrich Rudolf},
+        birth={1771-04-06}{Osnabr\"uck},
+        death={1801-06-10}{Sankt Thomas},
+      }
+      c{female,
+        name={Charlotte Henriette},
+        birth={1773-08-17}{Osnabr\"uck},
+        death={1840-06-05}{Sankt Thomas},
+      }
+      c{female,
+        name={Catharina Louisa},
+        birth={1775-07-19}{Osnabr\"uck},
+        death={1841-09-08}{Osnabr\"uck}
+      }
+      c{male,
+        name={6e Friedrich August},
+        birth={1777-03-04}{Osnabr\"uck},
+        death={1820-06-25}{Osnabr\"uck},
+        profession={Landowner}
+      }
+      c{female,
+        name={Margarethe Caroline Wilhelmine},
+        birth={1783-09-02}{Osnabr\"uck},
+        death={1828-05-10}{Osnabr\"uck}
+      }
+      c{male,
+        name={Carl Eberhard},
+        birth={1785-03-08}{Osnabr\"uck},
+        death={1837-02-18}{Derendorf},
+        profession={Poet writer}
+      }
+      c{female,
+        name={Clara Friederike},
+        birth={1787-03-13}{Osnabr\"uck},
+        death={1834-09-14}{Osnabr\"uck}
+      }
+  }
+
+c{female,
+  name={Christine Louise},
+  birth={1734-06-06}{Borgholzhausen},
+  death={1769-10-01}{Rinteln},
+}
+
+child{
+  g{male,
+  name={5d Philipp Friedrich Wilhelm},
+  birth={1736-10-25}{Borgholzhausen},
+  death={1787-04-12}{Schl\"usselburg},
+  profession={Amtmann}
+ }
+ p{female,
+   name={Henriette Luise Gaden},
+   birth={1747}{Petershagen},
+   death={1789-02-12}{Schl\"usselburg},
+   marriage={1787-04-12}{Petershagen}
+ }
+  c{male,
+  name={6f Franz Wilhelm},
+  birth={1770}{Schl\"usselberg},
+  death={?}{Hamburg},
+  profession={Bookkeeper Hamburg}
+}
+}
+c{female,
+  name={Henriette Dorothea},
+  birth={1739-12-16}{Borgholzhausen},
+  death={1772}{Borgholzhausen},
+}
+
+} % 4 
+
+} % 3
+
+child{
+  g{male,
+  name={3b Matthias},
+  birth={1656}{Osnabr\"uck},
+  death={1718}{Hamburg},
+  profession={Merchant}
+}
+child{
+  g{male,
+  name={4d Dietrich},
+  birth={1693}{Bremen},
+  death={1778}{Hamburg},
+  profession={Lower court Hamburg}
+}
+child{
+  g{male,
+  name={5e Herman},
+  birth={1732}{Hamburg},
+  death={1802}{Hamburg},
+  profession={Merchant average adjuster}
+}
+}
+}
+} %3
+
+} %2
+
+} %1
